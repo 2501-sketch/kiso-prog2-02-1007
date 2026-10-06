@@ -1,3 +1,4 @@
+// if文で、60点以上なら10点、それ以外は0点を求める
 #include <stdio.h>
 
 int main(void)

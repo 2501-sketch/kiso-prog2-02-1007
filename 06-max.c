@@ -1,3 +1,4 @@
+// 三項演算子で、2つの数のうち大きい方を求める
 #include <stdio.h>
 
 int main(void)

@@ -1,3 +1,4 @@
+// 三項演算子で、nが偶数か奇数かを判定して表示する
 #include <stdio.h>
 
 int main(void)

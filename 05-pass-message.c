@@ -1,3 +1,4 @@
+// 三項演算子で表示する文字列だけを選び、printfは1回だけ書く
 #include <stdio.h>
 
 int main(void)
